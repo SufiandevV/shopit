@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Smartphone X",
+      "price": 499.99,
+      "description": "A powerful and sleek smartphone for your everyday needs.",
+      "rating": 4.8,
+      "Images": [
+        {
+          "public_id": "phone_x_image1",
+          "url": "https://example.com/phone_x_image1.jpg"
+        },
+        {
+          "public_id": "phone_x_image2",
+          "url": "https://example.com/phone_x_image2.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "TechStore",
+      "stock": 100,
+      "numOfReviews": 25,
+      "reviews": [
+        {
+          "name": "TechEnthusiast",
+          "rating": 5.0,
+          "comment": "Amazing phone, great features!"
+        },
+        {
+          "name": "GadgetLover",
+          "rating": 4.5,
+          "comment": "Very satisfied with the purchase."
+        }
+      ],
+      "createdAt": "2022-02-15T10:30:00Z"
+    },
+    {
+      "name": "Laptop Pro",
+      "price": 1299.99,
+      "description": "A high-performance laptop for professionals and gamers.",
+      "rating": 4.5,
+      "Images": [
+        {
+          "public_id": "laptop_pro_image1",
+          "url": "https://example.com/laptop_pro_image1.jpg"
+        },
+        {
+          "public_id": "laptop_pro_image2",
+          "url": "https://example.com/laptop_pro_image2.jpg"
+        }
+      ],
+      "category": "Laptops",
+      "seller": "ElectroTech",
+      "stock": 50,
+      "numOfReviews": 15,
+      "reviews": [
+        {
+          "name": "ProfessionalUser",
+          "rating": 4.0,
+          "comment": "Great laptop for work and play."
+        },
+        {
+          "name": "Gamer123",
+          "rating": 4.5,
+          "comment": "Impressive performance in games."
+        }
+      ],
+      "createdAt": "2022-03-10T14:45:00Z"
+    },
+    {
+      "name": "Fitness Tracker",
+      "price": 79.99,
+      "description": "Stay fit and track your health with this advanced fitness tracker.",
+      "rating": 4.2,
+      "Images": [
+        {
+          "public_id": "fitness_tracker_image1",
+          "url": "https://example.com/fitness_tracker_image1.jpg"
+        },
+        {
+          "public_id": "fitness_tracker_image2",
+          "url": "https://example.com/fitness_tracker_image2.jpg"
+        }
+      ],
+      "category": "Accessories",
+      "seller": "FitGadgets",
+      "stock": 75,
+      "numOfReviews": 20,
+      "reviews": [
+        {
+          "name": "FitnessEnthusiast",
+          "rating": 4.5,
+          "comment": "Great tool for monitoring fitness goals."
+        },
+        {
+          "name": "HealthNut",
+          "rating": 4.0,
+          "comment": "Easy to use and accurate readings."
+        }
+      ],
+      "createdAt": "2022-04-05T08:15:00Z"
+    }
+  ]
+  
